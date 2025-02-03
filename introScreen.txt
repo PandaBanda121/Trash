@@ -1,0 +1,92 @@
+Intro screen (none selected):
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                    ┃E
+┃                              Welcome!                              ┃A
+┃                               Rules:                               ┃B
+┃    Use number cards (yellow) to create combos against the enemy    ┃C
+┃         Use face cards (blue) to reduce the enemy's damage         ┃D
+┃              Stack combos to make them more effective              ┃F
+┃                             Good luck!                             ┃G
+┃                                                                    ┃E
+┃                       ╭────────────────────╮                       ┃11
+┃                       │   [1] Start Game   │                       ┃11
+┃                       ╰────────────────────╯                       ┃11
+┃                                                                    ┃22
+┃                          [2] Achievements                          ┃22
+┃                                                                    ┃22
+┃                                                                    ┃33
+┃                           [3] Leave Game                           ┃33
+┃                                                                    ┃33
+┃                                                                    ┃E
+┃                                                                    ┃E
+┃                                                                    ┃E
+┃                                                                    ┃E
+┃       [W][S]: Scroll through options  [Enter]: Select option       ┃H
+┃                                                                    ┃E
+┃                                                                    ┃E
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                    ┃E
+┃                                                                    ┃E
+┃                              Welcome!                              ┃A
+┃                               Rules:                               ┃B
+┃    Use number cards (yellow) to create combos against the enemy    ┃C
+┃         Use face cards (blue) to reduce the enemy's damage         ┃D
+┃              Stack combos to make them more effective              ┃E
+┃                             Good luck!                             ┃E
+┃                                                                    ┃11
+┃                           [1] Start Game                           ┃11
+┃                                                                    ┃11
+┃                       ╭────────────────────╮                       ┃22
+┃                       │  [2] Achievements  │                       ┃22
+┃                       ╰────────────────────╯                       ┃22
+┃                                                                    ┃33
+┃                           [3] Leave Game                           ┃33
+┃                                                                    ┃33
+┃                                                                    ┃44
+┃                                                                    ┃44
+┃                                                                    ┃44
+┃                                                                    ┃E
+┃       [W][S]: Scroll through options  [Enter]: Select option       ┃F
+┃                                                                    ┃E
+┃                                                                    ┃E
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                                                                    ┃E
+┃                                                                    ┃E
+┃                              Welcome!                              ┃A
+┃                               Rules:                               ┃B
+┃    Use number cards (yellow) to create combos against the enemy    ┃C
+┃         Use face cards (blue) to reduce the enemy's damage         ┃D
+┃              Stack combos to make them more effective              ┃E
+┃                             Good luck!                             ┃E
+┃                                                                    ┃11
+┃                           [1] Start Game                           ┃11
+┃                                                                    ┃11
+┃                                                                    ┃22
+┃                          [2] Achievements                          ┃22
+┃                                                                    ┃22
+┃                       ╭────────────────────╮                       ┃33
+┃                       │   [3] Leave Game   │                       ┃33
+┃                       ╰────────────────────╯                       ┃33
+┃                                                                    ┃44
+┃                                                                    ┃44
+┃                                                                    ┃44
+┃                                                                    ┃E
+┃       [W][S]: Scroll through options  [Enter]: Select option       ┃F
+┃                                                                    ┃E
+┃                                                                    ┃E
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+
+
+
+Keybinds:
+[1-5]: Select Cards
+[A][D]: Scroll through card selection
+[Enter]: Select current card
+[A][D]: Switch between own cards and trashed card
+

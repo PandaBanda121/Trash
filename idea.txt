@@ -1,0 +1,32 @@
+Intro screen has 3 buttons:
+Start game
+Quit game
+Achievements
+
+After clicking start game, it has a small pop up: easy, medium, hard
+
+Game screen buttons:
+
+restart
+
+
+
+Rules:
+1. Have at most 5 cards in your hand
+2. Has to place at least 2 cards
+3. Once all cards at table used, constant multiplier +0.5
+4. Face cards are nullifiers, -1 for each damage taken, 10s are cancellers, they get rid of all the damage
+5. Combinations: (each combination is 0.5, plus the combination's power)
+501. Double (0.5)
+502. Triple (1)
+503. Quad (4)
+504. 3 in a row (2)
+505. 4 in a row (3)
+506. 5 in a row (5)
+507. 6 in a row (7)
+
+Power ups:
+1. Hold an extra card
+2. Have an extra life
+3. See an extra hidden card
+4. See opponent's cards at the start
