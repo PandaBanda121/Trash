@@ -3,10 +3,7 @@ Start game
 Quit game
 Achievements
 
-After clicking start game, it has a small pop up: easy, medium, hard
-
 Game screen buttons:
-
 restart
 
 
@@ -30,3 +27,4 @@ Power ups:
 2. Have an extra life
 3. See an extra hidden card
 4. See opponent's cards at the start
+5. Set another random crit number for the enemy
