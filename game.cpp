@@ -278,8 +278,7 @@ int main() {
 
         input = getch();
     }
-    cout << "Switching fi"
-    cout << input;
+    cout << "Switching finished" << endl;
 
     return 0;
 }
